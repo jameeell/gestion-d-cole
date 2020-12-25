@@ -1,0 +1,635 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="fr-FR">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://clubi2m.fr/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://clubi2m.fr/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	
+
+	<script>var et_site_url='https://clubi2m.fr';var et_post_id='15061';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script>
+	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Robotique - Domotique - Club informatique i2m</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CAbril%20Fatface%3Aregular&#038;subset=latin%2Clatin-ext,latin-ext%2Clatin&#038;display=swap" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://clubi2m.fr/ateliers/robotique-domotique/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Robotique - Domotique - Club informatique i2m" />
+	<meta property="og:url" content="https://clubi2m.fr/ateliers/robotique-domotique/" />
+	<meta property="og:site_name" content="Club informatique i2m" />
+	<meta property="article:modified_time" content="2020-06-20T19:32:32+00:00" />
+	<meta property="og:image" content="https://clubi2m.fr/wp-content/uploads/2018/01/cartes-300x171.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://clubi2m.fr/#organization","name":"Club I2M","url":"https://clubi2m.fr/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://clubi2m.fr/#logo","inLanguage":"fr-FR","url":"https://clubi2m.fr/wp-content/uploads/2018/02/logo-i2m.png","width":246,"height":207,"caption":"Club I2M"},"image":{"@id":"https://clubi2m.fr/#logo"}},{"@type":"WebSite","@id":"https://clubi2m.fr/#website","url":"https://clubi2m.fr/","name":"Club informatique i2m","description":"La Connaissance s&#039;accro\u00eet quand on la partage!","publisher":{"@id":"https://clubi2m.fr/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://clubi2m.fr/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"ImageObject","@id":"https://clubi2m.fr/ateliers/robotique-domotique/#primaryimage","inLanguage":"fr-FR","url":"https://clubi2m.fr/wp-content/uploads/2018/01/cartes.jpg","width":640,"height":365},{"@type":"WebPage","@id":"https://clubi2m.fr/ateliers/robotique-domotique/#webpage","url":"https://clubi2m.fr/ateliers/robotique-domotique/","name":"Robotique - Domotique - Club informatique i2m","isPartOf":{"@id":"https://clubi2m.fr/#website"},"primaryImageOfPage":{"@id":"https://clubi2m.fr/ateliers/robotique-domotique/#primaryimage"},"datePublished":"2016-10-02T17:04:15+00:00","dateModified":"2020-06-20T19:32:32+00:00","breadcrumb":{"@id":"https://clubi2m.fr/ateliers/robotique-domotique/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://clubi2m.fr/ateliers/robotique-domotique/"]}]},{"@type":"BreadcrumbList","@id":"https://clubi2m.fr/ateliers/robotique-domotique/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://clubi2m.fr/","url":"https://clubi2m.fr/","name":"Accueil"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://clubi2m.fr/ateliers/","url":"https://clubi2m.fr/ateliers/","name":"Les ateliers"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://clubi2m.fr/ateliers/robotique-domotique/","url":"https://clubi2m.fr/ateliers/robotique-domotique/","name":"Robotique &#8211; Domotique"}}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Club informatique i2m &raquo; Flux" href="https://clubi2m.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Club informatique i2m &raquo; Flux des commentaires" href="https://clubi2m.fr/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.12.3 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.12.3';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-169436951-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-169436951-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Fonction actuellement pas en cours d’exécution __gaTracker(' + arguments[0] + " ....) parce que vous n’êtes pas suivi·e. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<meta content="Extra Child Theme v.1.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link data-minify="1" rel='stylesheet' id='ai1ec_style-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/plugins/all-in-one-event-calendar/cache/fac8ac34_ai1ec_parsed_css-5a3788b810948c9f3e74158911534aba.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='dashicons-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-includes/css/dashicons.min-32343210398857af169137f0478f7a2b.css' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='https://clubi2m.fr/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.12.5' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='contact-form-7-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles-9e77206ca9330c85b8f4b571955f9fd2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://clubi2m.fr/wp-content/plugins/cookie-notice/css/front.min.css?ver=1bbbad' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='dwd-extra-builder-css-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/plugins/dwd-add-category-builder-to-divi-extra/css/dwd-extra-builder-a06f87d1026b4ab91234557a4ecc85f8.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='mptt-style-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/plugins/mp-timetable/media/css/style-a5f85c11148c70767c5678580aaecaab.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='parent-style-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/themes/Extra/style-2771dc36fce1961796c05ebdf453b0b7.css' type='text/css' media='all' />
+
+<link rel='stylesheet' id='extra-style-css'  href='https://clubi2m.fr/wp-content/themes/Extra-child/style.css?ver=4.6.5' type='text/css' media='all' />
+
+<link data-minify="1" rel='stylesheet' id='wp_mailjet_subscribe_widget-widget-front-styles-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/plugins/mailjet-for-wordpress/src/widget/css/front-widget-f722dfde9462482689b555d084f33d39.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tablepress-default-css'  href='https://clubi2m.fr/wp-content/cache/min/1/wp-content/plugins/tablepress/css/default.min-d796c9a4ee2e49d5fb3a32a20ffadd6a.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://clubi2m.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+
+
+
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/clubi2m.fr\/wp-admin\/admin-ajax.php","nonce":"e1a9b54da1","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+<link rel="https://api.w.org/" href="https://clubi2m.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://clubi2m.fr/wp-json/wp/v2/pages/15061" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clubi2m.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://clubi2m.fr/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://clubi2m.fr/?p=15061' />
+<noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript><!-- OSM plugin V5.5: did not add geo meta tags. --> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" /><style type="text/css" media="screen">body{position:relative}#dynamic-to-top{display:none;overflow:hidden;width:auto;z-index:90;position:fixed;bottom:20px;right:20px;top:auto;left:auto;font-family:sans-serif;font-size:1em;color:#fff;text-decoration:none;padding:17px 16px;border:1px solid #000;background:#272727;-webkit-background-origin:border;-moz-background-origin:border;-icab-background-origin:border;-khtml-background-origin:border;-o-background-origin:border;background-origin:border;-webkit-background-clip:padding-box;-moz-background-clip:padding-box;-icab-background-clip:padding-box;-khtml-background-clip:padding-box;-o-background-clip:padding-box;background-clip:padding-box;-webkit-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-ms-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-moz-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-o-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-khtml-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-icab-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-webkit-border-radius:30px;-moz-border-radius:30px;-icab-border-radius:30px;-khtml-border-radius:30px;border-radius:30px}#dynamic-to-top:hover{background:#4e9c9c;background:#272727 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 255, 255, 255, .2 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#272727 -webkit-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#272727 -khtml-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#272727 -moz-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#272727 -o-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#272727 -ms-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#272727 -icab-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#272727 linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );cursor:pointer}#dynamic-to-top:active{background:#272727;background:#272727 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 0, 0, 0, .3 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#272727 -webkit-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#272727 -moz-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#272727 -khtml-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#272727 -o-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#272727 -ms-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#272727 -icab-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#272727 linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) )}#dynamic-to-top,#dynamic-to-top:active,#dynamic-to-top:focus,#dynamic-to-top:hover{outline:none}#dynamic-to-top span{display:block;overflow:hidden;width:14px;height:12px;background:url( https://clubi2m.fr/wp-content/plugins/dynamic-to-top/css/images/up.png )no-repeat center center}</style><link rel="icon" href="https://clubi2m.fr/wp-content/uploads/2017/03/cropped-Plan-de-travail-6-copie-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://clubi2m.fr/wp-content/uploads/2017/03/cropped-Plan-de-travail-6-copie-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://clubi2m.fr/wp-content/uploads/2017/03/cropped-Plan-de-travail-6-copie-180x180.png" />
+<meta name="msapplication-TileImage" content="https://clubi2m.fr/wp-content/uploads/2017/03/cropped-Plan-de-travail-6-copie-270x270.png" />
+<link rel="stylesheet" id="et-extra-customizer-global-cached-inline-styles" href="https://clubi2m.fr/wp-content/et-cache/global/et-extra-customizer-global-16021482631761.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="page-template page-template-page-template-fullwidth page-template-page-template-fullwidth-php page page-id-15061 page-parent page-child parent-pageid-14784 cookies-not-set et_extra et_pb_pagebuilder_layout et_fullwidth_nav et_fullwidth_secondary_nav et_fixed_nav et_pb_pagebuilder_fullwidth et_smooth_scroll et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right et_includes_sidebar et-db et_minified_js et_minified_css">
+	<div id="page-container" class="page-container">
+				<!-- Header -->
+		<header class="header left-right">
+			
+			<!-- Main Header -->
+			<div id="main-header-wrapper">
+				<div id="main-header" data-fixed-height="80">
+					<div class="container">
+					<!-- ET Ad -->
+						
+						
+						<!-- Logo -->
+						<a class="logo" href="https://clubi2m.fr/" data-fixed-height="70">
+							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Club informatique i2m" id="logo" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2016/12/Plan-de-travail-6.png" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2016/12/Plan-de-travail-6.png" alt="Club informatique i2m" id="logo" /></noscript>
+						</a>
+
+						
+						<!-- ET Navigation -->
+						<div id="et-navigation" class="">
+							<ul id="et-menu" class="nav et_disable_top_tier"><li id="menu-item-238660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-238660"><a href="https://clubi2m.fr/">Accueil</a></li>
+<li id="menu-item-15324" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-15324"><a href="#"><i class="_mi _before dashicons dashicons-admin-tools" aria-hidden="true"></i><span>Ateliers</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-27713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27713"><a href="https://clubi2m.fr/ateliers-a-la-demande/">Ateliers à la demande</a></li>
+	<li id="menu-item-27017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27017"><a href="https://clubi2m.fr/ateliers/cartographie-participative/">Cartographie Participative</a></li>
+	<li id="menu-item-153383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-153383"><a href="https://clubi2m.fr/ateliers/imprimantes-3d/">Imprimer en 3D</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15103"><a href="https://clubi2m.fr/ateliers/imprimantes-3d/">Imprimante 3D</a></li>
+		<li id="menu-item-153355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153355"><a href="https://clubi2m.fr/tout-sur-limprimante/">Tout sur l&#8217;imprimante 3D</a></li>
+		<li id="menu-item-153357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153357"><a href="https://clubi2m.fr/tout-sur-les-filaments-3d/">Tout sur les filaments 3D</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15100"><a href="https://clubi2m.fr/ateliers/linux/">Linux</a></li>
+	<li id="menu-item-15098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15098"><a href="https://clubi2m.fr/ateliers/photo-numerique/">Photo Images</a>
+	<ul class="sub-menu">
+		<li id="menu-item-161170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161170"><a href="https://clubi2m.fr/ateliers/photo-numerique/">Photo Numérique</a></li>
+		<li id="menu-item-15099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15099"><a href="https://clubi2m.fr/ateliers/numerisation/">Numérisations</a></li>
+		<li id="menu-item-26638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26638"><a href="https://clubi2m.fr/ateliers/traitement-d-image/">Photoshop</a></li>
+		<li id="menu-item-239498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239498"><a href="https://clubi2m.fr/inkscape-2/">INKSCAPE</a></li>
+		<li id="menu-item-26295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26295"><a href="https://clubi2m.fr/ateliers/transfert-de-films/">Transfert de films</a></li>
+		<li id="menu-item-15095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15095"><a href="https://clubi2m.fr/ateliers/video/">Vidéo</a></li>
+		<li id="menu-item-25382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25382"><a href="https://clubi2m.fr/ateliers/photo-numerique/concours-photos/">Concours Photos</a></li>
+	</ul>
+</li>
+	<li id="menu-item-153367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-153367"><a href="https://clubi2m.fr/ateliers/informatique-decouverte/">Premiers pas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15102"><a title="Informatique – Découverte" href="https://clubi2m.fr/ateliers/informatique-decouverte/">Découverte</a></li>
+		<li id="menu-item-15101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15101"><a title="Informatique Débutant" href="https://clubi2m.fr/ateliers/informatique-debutant/">Débutant</a></li>
+		<li id="menu-item-25981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25981"><a href="https://clubi2m.fr/ateliers/entraide-informatique/">Entraide</a></li>
+	</ul>
+</li>
+	<li id="menu-item-153390" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15061 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-153390"><a href="https://clubi2m.fr/ateliers/robotique-domotique/" aria-current="page">Robotique</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15097" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15061 current_page_item menu-item-15097"><a href="https://clubi2m.fr/ateliers/robotique-domotique/" aria-current="page">Robotique</a></li>
+		<li id="menu-item-15104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15104"><a href="https://clubi2m.fr/ateliers/programmation/">Programmer avec Scratch</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15096"><a href="https://clubi2m.fr/ateliers/site-web/">Sites Web</a></li>
+	<li id="menu-item-25271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25271"><a href="https://clubi2m.fr/ateliers/tablettes-smartphones/">Tablettes SmartPhones</a></li>
+	<li id="menu-item-15094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15094"><a href="https://clubi2m.fr/ateliers/windows-10/">Windows 10</a></li>
+</ul>
+</li>
+<li id="menu-item-53764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-53764"><a href="https://clubi2m.fr/calendar/"><i class="_mi _before dashicons dashicons-calendar-alt" aria-hidden="true"></i><span>Agenda</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-76097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76097"><a href="https://clubi2m.fr/soirees-a-themes/">Cours du soir</a></li>
+	<li id="menu-item-32002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32002"><a href="https://clubi2m.fr/partenaires/">Evénements partenaires</a></li>
+</ul>
+</li>
+<li id="menu-item-25775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25775"><a href="#">Le Club</a>
+<ul class="sub-menu">
+	<li id="menu-item-214867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214867"><a href="https://clubi2m.fr/le-club/">En détail</a></li>
+</ul>
+</li>
+<li id="menu-item-25415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25415"><a href="https://clubi2m.fr/adhesion/"><i class="_mi _before dashicons dashicons-groups" aria-hidden="true"></i><span>Adhésion</span></a></li>
+<li id="menu-item-14996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14996"><a href="https://clubi2m.fr/contact/">Contact</a></li>
+</ul>							<div id="et-mobile-navigation">
+			<span class="show-menu">
+				<div class="show-menu-button">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<p>Sélectionner une page</p>
+			</span>
+			<nav>
+			</nav>
+		</div> <!-- /#et-mobile-navigation -->						</div><!-- /#et-navigation -->
+					</div><!-- /.container -->
+				</div><!-- /#main-header -->
+			</div><!-- /#main-header-wrapper -->
+
+		</header>
+
+				
+
+
+
+
+				
+					
+																<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="Robot&amp;Domo" height="auto" width="auto" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2020/06/RobotDomo.png 614w, https://clubi2m.fr/wp-content/uploads/2020/06/RobotDomo-300x296.png 300w" data-lazy-sizes="(max-width: 614px) 100vw, 614px" class="wp-image-265278" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2020/06/RobotDomo.png" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2020/06/RobotDomo.png" alt="" title="Robot&amp;Domo" height="auto" width="auto" srcset="https://clubi2m.fr/wp-content/uploads/2020/06/RobotDomo.png 614w, https://clubi2m.fr/wp-content/uploads/2020/06/RobotDomo-300x296.png 300w" sizes="(max-width: 614px) 100vw, 614px" class="wp-image-265278" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_3_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>ATELIER ROBOTIQUE  DOMOTIQUE</h3></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_right et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Le lundi de 20h à 22 h</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="dernierem" class="et_pb_with_border et_pb_section et_pb_section_1 et_section_regular section_has_divider et_pb_bottom_divider" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>l&#8217;Objectif de l&#8217;Atelier</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="robotique domotique" title="" height="auto" width="auto" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019.png 1029w, https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019-300x234.png 300w, https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019-768x599.png 768w, https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019-1024x798.png 1024w" data-lazy-sizes="(max-width: 1029px) 100vw, 1029px" class="wp-image-115286" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019.png" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019.png" alt="robotique domotique" title="" height="auto" width="auto" srcset="https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019.png 1029w, https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019-300x234.png 300w, https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019-768x599.png 768w, https://clubi2m.fr/wp-content/uploads/2019/09/Robotique_2019-1024x798.png 1024w" sizes="(max-width: 1029px) 100vw, 1029px" class="wp-image-115286" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>L&#8217;objectif principal de l&#8217;atelier consiste à <strong>mieux comprendre</strong> et à s&#8217;approprier les objets du <strong>XXIème</strong> siècle:<br /> les<strong> objets connectés</strong>, les robots, Internet, la <strong>domotique</strong>, l&#8217;informatique embarquée, etc. &#8230;</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_5 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><strong>Quand:</strong> Le lundi de 20h à 22 h environ (*)<br /> <strong>Où:</strong> Salle du bas Club I2m<br /> <strong>Animateurs</strong> :<br /> <a href="mailto:ropito@gmail.com">Laurent Chiche</a>, Laurent Palu<strong><br /> </strong>Vous pouvez écrire au groupe d’animateurs via le mail : <a href="mailto:site@clubi2m.fr">arduino@clubi2m.fr</a></p>
+<p><strong>Nota:<br /> </strong><em>* En principe, les ateliers ne fonctionnent pas pendant les vacances scolaires sauf avis contraire, se renseigner auprès des animateurs.</em></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_3 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_2_5 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				<span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="" height="auto" width="auto" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4.jpg 1280w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-300x198.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-768x506.jpg 768w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-1024x675.jpg 1024w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-1080x712.jpg 1080w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" class="wp-image-27183" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4.jpg" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4.jpg" alt="" title="" height="auto" width="auto" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4.jpg 1280w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-300x198.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-768x506.jpg 768w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-1024x675.jpg 1024w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo4-1080x712.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" class="wp-image-27183" /></noscript></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_3 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="" height="auto" width="auto" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2016/10/robinet800.jpg 800w, https://clubi2m.fr/wp-content/uploads/2016/10/robinet800-300x248.jpg 300w, https://clubi2m.fr/wp-content/uploads/2016/10/robinet800-768x635.jpg 768w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" class="wp-image-26543" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2016/10/robinet800.jpg" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2016/10/robinet800.jpg" alt="" title="" height="auto" width="auto" srcset="https://clubi2m.fr/wp-content/uploads/2016/10/robinet800.jpg 800w, https://clubi2m.fr/wp-content/uploads/2016/10/robinet800-300x248.jpg 300w, https://clubi2m.fr/wp-content/uploads/2016/10/robinet800-768x635.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" class="wp-image-26543" /></noscript></span>
+			</div><div class="et_pb_module et_pb_gallery et_pb_gallery_0  et_pb_bg_layout_light et_pb_gallery_grid">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="1"><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_0">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9.jpg" title="Arduino_Photo9">
+					<img width="400" height="284" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20284'%3E%3C/svg%3E" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9-400x284.jpg 480w" data-lazy-sizes="(max-width:479px) 479px, 100vw" class="wp-image-27191" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9-400x284.jpg" /><noscript><img width="400" height="284" src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9-400x284.jpg" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo9-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-27191" /></noscript>
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_1">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7.jpg" title="Arduino_Photo7">
+					<img width="400" height="284" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20284'%3E%3C/svg%3E" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7-400x284.jpg 480w" data-lazy-sizes="(max-width:479px) 479px, 100vw" class="wp-image-27189" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7-400x284.jpg" /><noscript><img width="400" height="284" src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7-400x284.jpg" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo7-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-27189" /></noscript>
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_2">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6.jpg" title="Arduino_Photo6">
+					<img width="400" height="284" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20284'%3E%3C/svg%3E" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6-400x284.jpg 480w" data-lazy-sizes="(max-width:479px) 479px, 100vw" class="wp-image-27188" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6-400x284.jpg" /><noscript><img width="400" height="284" src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6-400x284.jpg" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo6-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-27188" /></noscript>
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_3">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5.jpg" title="Arduino_Photo5">
+					<img width="400" height="284" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20284'%3E%3C/svg%3E" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5-400x284.jpg 480w" data-lazy-sizes="(max-width:479px) 479px, 100vw" class="wp-image-27187" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5-400x284.jpg" /><noscript><img width="400" height="284" src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5-400x284.jpg" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo5-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-27187" /></noscript>
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_4">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3.jpg" title="Arduino_Photo3">
+					<img width="400" height="284" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20284'%3E%3C/svg%3E" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3-400x284.jpg 480w" data-lazy-sizes="(max-width:479px) 479px, 100vw" class="wp-image-27186" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3-400x284.jpg" /><noscript><img width="400" height="284" src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3-400x284.jpg" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo3-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-27186" /></noscript>
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_5">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2.jpg" title="Arduino_Photo2">
+					<img width="400" height="284" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20284'%3E%3C/svg%3E" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2-400x284.jpg 480w" data-lazy-sizes="(max-width:479px) 479px, 100vw" class="wp-image-27185" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2-400x284.jpg" /><noscript><img width="400" height="284" src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2-400x284.jpg" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2.jpg 479w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo2-400x284.jpg 480w" sizes="(max-width:479px) 479px, 100vw" class="wp-image-27185" /></noscript>
+					<span class="et_overlay"></span>
+				</a>
+				</div></div></div><!-- .et_pb_gallery_items --><div class="et_pb_gallery_pagination"></div></div><!-- .et_pb_gallery --><div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="" height="auto" width="auto" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8.jpg 1280w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-300x182.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-768x465.jpg 768w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-1024x621.jpg 1024w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-1080x655.jpg 1080w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" class="wp-image-27190" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8.jpg" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8.jpg" alt="" title="" height="auto" width="auto" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8.jpg 1280w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-300x182.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-768x465.jpg 768w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-1024x621.jpg 1024w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo8-1080x655.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" class="wp-image-27190" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_3_5 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2><strong>ON  ABORDE</strong></h2></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>LES MICROCONTRÔLEURS, COMMENT :</h3>
+<ul>
+<li><em><strong>Découvrir</strong></em>, manipuler et maitriser les cartes à <strong>microcontrôleurs</strong> (<a href="https://www.arduino.cc" target="_blank" rel="noopener noreferrer">Arduino</a>/Atmel, <a href="https://www.wemos.cc/" target="_blank" rel="noopener noreferrer">Wemos</a>/ESP8266, etc.), qui constituent le cerveau de tous ces systèmes.<br /> <div class='et-learn-more clearfix'>
+					<h3 class='heading-more'>Cliquer ici pour en savoir plus sur Arduino <span class='et_learnmore_arrow'><span></span></span></h3>
+					<div class='learn-more-content'>Les microcontrôleurs, minuscules ordinateurs inclus dans un circuit intégré de taille millimétrique et coûtant souvent moins de 1 €, ont envahit le monde moderne: cafetière expresso, machines à laver, drones de loisir, GPS, voitures, etc. Autrefois difficiles à programmer et complexes à mettre en œuvre, ceux-ci étaient réservés aux professionnels en blouse blanche. Mais un obscur projet, mené dans un Institut de Design Numérique du nord de l&#8217;Italie pour faciliter l&#8217;utilisation de l&#8217;électronique aux étudiants, a, de façon assez inattendue, conquis la planète et totalement révolutionné le domaine, permettant à quiconque d&#8217;y plonger facilement. Massimo Banzi, David Cuartielles et quelques autres enseignants de cet institut avaient pour habitude de boire un verre au bar du coin portant le nom d&#8217;Arduino, éphémère roi d&#8217;Italie. Et c&#8217;est le nom qu&#8217;ils choisirent lorsqu&#8217;ils décidèrent de distribuer les cartes électroniques et les logiciels développés par les étudiants, et de rendre les schémas électroniques et le code source disponible gratuitement sous des licences libres. Faible coût, bonnes performances et facilité de mise en œuvre ont très vite conquis la communauté des bricoleurs, les laboratoires de recherche, puis le monde éducatif qui y trouve un moyen ludique pour enseigner le code et l&#8217;électronique dans les collèges, lycées ou IUT. Enfin, au travers des nombreux clubs, ateliers et FabLabs apparus dans le monde et aux quatre coins de l&#8217;hexagone depuis quelques années, Arduino est désormais accessible à tous. Comme aime à le dire Massimo Banzi &#8220;maintenant, même ma mère peut programmer&#8221;.<img class="aligncenter size-medium wp-image-27200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20171'%3E%3C/svg%3E" alt="" width="300" height="171" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/cartes-300x171.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/cartes.jpg 640w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/cartes-300x171.jpg" /><noscript><img class="aligncenter size-medium wp-image-27200" src="https://clubi2m.fr/wp-content/uploads/2018/01/cartes-300x171.jpg" alt="" width="300" height="171" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/cartes-300x171.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/cartes.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>
+				</div></li>
+<li><em><strong>Acquérir</strong></em>, de façon ludique, les bases d&#8217;électricité, d&#8217;électronique, de programmation et de communication nécessaires à l&#8217;utilisation des microcontrôleurs et à la conception d&#8217;objets intelligents, communicants et de systèmes automatisés.</li>
+</ul>
+<h3>LES TECHNIQUES ET CONCEPTS</h3>
+<p>Un aperçu des <strong>techniques</strong> et <strong>concepts</strong> abordés dans l&#8217;atelier, est disponible <strong><a target="blank_" href="https://clubi2m.fr/ateliers/robotique-domotique/programme/" rel="noopener noreferrer">ICI</a></strong>.</p>
+<h3>LES APPLICATIONS CONCRÈTES</h3>
+<p>Le <em><strong>champ d&#8217;application</strong> </em>est très vaste et un grand nombre de thématiques peuvent être abordées, soit à titre individuel, soit en groupe.<br /> Par exemple, et de façon non exhaustive, on pourra <strong>concevoir</strong> et <strong>construire</strong>:</p>
+<ul>
+<li>des petits <strong>robots</strong></li>
+<li>des systèmes à base de <strong>LEDs</strong></li>
+<li>des objets <strong>connectés</strong></li>
+<li>des systèmes <strong>domotiques</strong></li>
+<li>tout objet/système <strong>intelligent</strong>, <strong>automatique</strong> et/ou <strong>communicant</strong></li>
+</ul></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>Fonctionnement</h3>
+<p>Le fonctionnement de l&#8217;atelier est basé sur de petits exposés théoriques ou techniques, sur l&#8217;expérimentation, et pour une très large part, sur la discussion et l&#8217;entraide.<br /> L&#8217;interaction avec l&#8217;atelier Imprimantes 3D, permet de concevoir les objets en totalité, c&#8217;est-à-dire aussi bien la structure que l&#8217;informatique embarquée.</p>
+<p style="padding-left: 30px;"><strong>Quelques exemples de réalisations :<br /></strong>&#8211; Horloge à LEDs<br />&#8211; Station météo connectée<br />&#8211; Commandes de lampes/chauffage/porte de garage par Internet<br />&#8211; Robot à roues éviteur d’obstacles<br />&#8211; Animation lumineuse à détection de présence<br />&#8211; Composition automatique d’équipes de pétanque<br />&#8211; Robots bipèdes danseurs</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>DEPANNAGE</h3>
+<h4>Aider et résoudre </h4>
+<p>Pas à pas les manipulations à réaliser pour faire fonctionner son appareil conformément à son besoin. En cas de difficultés l&#8217;animateur vous aide à mettre à niveau vos logiciels et vos versions.</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_right et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="mailto:arduino@clubi2m.fr">Assistez à une Session</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_right et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="http://clubi2m.fr/#ATELIERS">REVENIR A la LISTE des ATELIERS</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_4 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2><strong>ON  PEUT Y VOIR</strong></h2></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>La danse des robots</h3>
+<p><iframe src="https://www.youtube.com/embed/v7OmLmwO-4A?rel=0" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="" height="auto" width="auto" data-lazy-srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1.jpg 1280w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-300x182.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-768x465.jpg 768w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-1024x621.jpg 1024w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-1080x655.jpg 1080w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" class="wp-image-27184" data-lazy-src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1.jpg" /><noscript><img src="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1.jpg" alt="" title="" height="auto" width="auto" srcset="https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1.jpg 1280w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-300x182.jpg 300w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-768x465.jpg 768w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-1024x621.jpg 1024w, https://clubi2m.fr/wp-content/uploads/2018/01/Arduino_Photo1-1080x655.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" class="wp-image-27184" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>1ère ébauche d&#8217;un prototype de suivi du soleil</h3>
+<p><iframe src="https://www.youtube.com/embed/2hve0WUXSQg?rel=0" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>Premiers pas du robot auto-équilibré (gyropode)</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1-_qUjHW_UU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_right et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_light" href="http://clubi2m.fr/#ATELIERS">REVENIR A la LISTE des ATELIERS</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>Sessions</h3>
+<p>Le cycle de cours commence à la rentrée de <strong>Septembre</strong>, tous les ans.  Les adhérents qui ont déjà suivi les sessions de base sont accompagnés dans leur développement personnel.</p>
+<p>Au besoin des sessions de rattrapage ou de révision sont organisées dans le but de mettre à niveau l&#8217;ensemble des participants.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>CALENDRIER<br />2019-2020</h3>
+<p>Tous les <strong>samedi</strong> de 10h00 à 12h00 dans la salle du bas, hors vacances scolaires et jusqu&#8217;au <strong>22 Juin 2021</strong>.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Voir les Publications de l&#039;atelier</h5>
+				<div class="et_pb_toggle_content clearfix"><div class="et_pb_module et_pb_blog_0 et_pb_posts et_pb_bg_layout_light ">
+				
+				
+				<div class="et_pb_ajax_pagination_container">
+					
+				</div>
+				</div> <!-- .et_pb_posts --> </div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</div><!-- .et-l -->
+	
+			
+		</div><!-- #et-boc -->
+								
+					
+				
+				
+
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				
+						<p id="footer-info">&copy; 2008-2020 Club Informatique I2m Saint Clément de rivière | <a href="/mentions-legales/">Mentions L&eacute;gales</a></p>
+                    
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<span style="display:none !important">ante. elit. felis Nullam elit. leo ut ut</span>	<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_image_3","style":"slideLeft","repeat":"once","duration":"500ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				</script>
+	<link rel='stylesheet' id='mediaelement-css'  href='https://clubi2m.fr/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://clubi2m.fr/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=1bbbad' type='text/css' media='all' />
+
+
+
+<script type='text/javascript' id='extra-scripts-js-extra'>
+/* <![CDATA[ */
+var EXTRA = {"images_uri":"https:\/\/clubi2m.fr\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/clubi2m.fr\/wp-admin\/admin-ajax.php","your_rating":"Votre note:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":" %d Articles dans le panier","item_count":"%d Item","items_count":" %d Articles","rating_nonce":"e32f286f83","timeline_nonce":"7ea1a4da35","blog_feed_nonce":"7f92922759","error":"Un probl\u00e8me est survenu, veuillez r\u00e9essayer.","contact_error_name_required":"Le champ Nom ne peut \u00eatre vide.","contact_error_email_required":"Le champ Email ne peut pas \u00eatre vide.","contact_error_email_invalid":"S'il vous pla\u00eet, mettez une adresse email valide.","is_ab_testing_active":"","is_cache_plugin_active":"yes"};
+var et_shortcodes_strings = {"previous":"Pr\u00e9c\u00e9dent","next":"Suivant"};
+var et_pb_custom = {"ajaxurl":"https:\/\/clubi2m.fr\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/clubi2m.fr\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/clubi2m.fr\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"2df60820eb","subscription_failed":"Veuillez v\u00e9rifier les champs ci-dessous pour vous assurer que vous avez entr\u00e9 les informations correctes.","et_ab_log_nonce":"293af54ec9","fill_message":"S'il vous pla\u00eet, remplissez les champs suivants:","contact_error_message":"Veuillez corriger les erreurs suivantes :","invalid":"E-mail non valide","captcha":"Captcha","prev":"Pr\u00e9c\u00e9dent","previous":"Pr\u00e9c\u00e9dente","next":"Suivant","wrong_captcha":"Vous avez entr\u00e9 le mauvais num\u00e9ro dans le captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"15061","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[{"id":".et_pb_blog_0","start":0,"midStart":50,"midEnd":50,"end":100,"startValue":0,"midValue":100,"endValue":100,"resolver":"opacity","module_type":"et_pb_blog","trigger_start":"middle","trigger_end":"middle"},{"id":".et_pb_blog_0","start":0,"midStart":40,"midEnd":60,"end":100,"startValue":10,"midValue":0,"endValue":0,"resolver":"blur","module_type":"et_pb_blog","trigger_start":"middle","trigger_end":"middle"}],"tablet":[{"id":".et_pb_blog_0","start":0,"midStart":50,"midEnd":50,"end":100,"startValue":0,"midValue":100,"endValue":100,"resolver":"opacity","module_type":"et_pb_blog","trigger_start":"middle","trigger_end":"middle"},{"id":".et_pb_blog_0","start":0,"midStart":40,"midEnd":60,"end":100,"startValue":10,"midValue":0,"endValue":0,"resolver":"blur","module_type":"et_pb_blog","trigger_start":"middle","trigger_end":"middle"}],"phone":[{"id":".et_pb_blog_0","start":0,"midStart":50,"midEnd":50,"end":100,"startValue":0,"midValue":100,"endValue":100,"resolver":"opacity","module_type":"et_pb_blog","trigger_start":"middle","trigger_end":"middle"},{"id":".et_pb_blog_0","start":0,"midStart":40,"midEnd":60,"end":100,"startValue":10,"midValue":0,"endValue":0,"resolver":"blur","module_type":"et_pb_blog","trigger_start":"middle","trigger_end":"middle"}]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+
+<style id="et-builder-module-design-15061-cached-inline-styles">div.et_pb_section.et_pb_section_0{background-image:linear-gradient(90deg,#e0d8c8 90%,#5d574e 90%)!important}.et_pb_row_1.et_pb_row{padding-bottom:0px!important;padding-bottom:0px}.et_pb_row_0.et_pb_row{padding-bottom:0px!important;padding-bottom:0px}.et_pb_image_4{text-align:left;margin-left:0}.et_pb_image_0{text-align:left;margin-left:0}.et_pb_text_0 h1{font-family:'Abril Fatface',display;font-size:110px;letter-spacing:1px;line-height:0.9em}.et_pb_text_3 h2{font-family:'Abril Fatface',display;font-size:56px;line-height:1.1em}.et_pb_text_0 h2{font-family:'Abril Fatface',display;font-size:56px;line-height:1.1em}.et_pb_text_6 h2{font-family:'Abril Fatface',display;font-size:56px;line-height:1.1em}.et_pb_text_7 h2{font-family:'Abril Fatface',display;font-size:56px;line-height:1.1em}.et_pb_text_8 h2{font-family:'Abril Fatface',display;font-size:56px;line-height:1.1em}.et_pb_text_0 h3{font-family:'Abril Fatface',display;font-size:46px;text-align:left}.et_pb_text_1{font-weight:600;font-size:40px;text-shadow:0.08em 0.08em 0.08em rgba(0,0,0,0.4);transform:translateX(-119px) translateY(0px)}div.et_pb_section.et_pb_section_1{background-image:linear-gradient(180deg,rgba(139,18,232,0.28) 0%,rgba(205,219,195,0.56) 70%)!important}.et_pb_section_1{border-style:dotted;border-color:rgba(0,0,0,0);padding-top:29px;padding-bottom:14px}.et_pb_section_1.section_has_divider.et_pb_bottom_divider .et_pb_bottom_inside_divider{background-image:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzOHB4IiB2aWV3Qm94PSIwIDAgMTI4MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0icmdiYSgxNzksMTc5LDE3OSwwLjI5KSI+PHBhdGggZD0iTTEyODAgMTQwVjBIMGwxMjgwIDE0MHoiLz48L2c+PC9zdmc+);background-size:100% 38px;bottom:0;height:38px;z-index:1;transform:rotateX(180deg)}.et_pb_toggle_0.et_pb_toggle{background-color:rgba(0,0,0,0)}.et_pb_row_1{background-color:rgba(0,0,0,0)}.et_pb_text_9 p{line-height:2em}.et_pb_text_14 p{line-height:2em}.et_pb_text_5 p{line-height:2em}.et_pb_text_2 p{line-height:2em}.et_pb_text_14{line-height:2em;max-width:800px}.et_pb_text_2{line-height:2em;max-width:800px}.et_pb_text_2 h2{font-family:'Abril Fatface',display;font-size:40px;color:#7d1440!important;line-height:1.1em}.et_pb_row_2.et_pb_row{padding-right:0px!important;padding-right:0px}.et_pb_image_1{transform:scaleX(0.9) scaleY(0.9);width:100%;max-width:100%!important;text-align:left;margin-left:0}.et_pb_image_1 .et_pb_image_wrap,.et_pb_image_1 img{width:100%}.et_pb_row_4,.page .et_pb_row_4.et_pb_row,.single .et_pb_row_4.et_pb_row{width:100%}.et_pb_row_3,.page .et_pb_row_3.et_pb_row,.single .et_pb_row_3.et_pb_row{width:100%}.et_pb_text_7 p{line-height:1.1em}.et_pb_text_6 p{line-height:1.1em}.et_pb_text_8 p{line-height:1.1em}.et_pb_text_3 p{line-height:1.1em}.et_pb_text_3{font-size:22px;line-height:1.1em;max-width:800px}.et_pb_text_4 p{line-height:1.4em}.et_pb_text_4{font-size:22px;line-height:1.4em;background-color:rgba(0,0,0,0.11);position:relative;padding-top:32px!important;padding-right:18px!important;padding-bottom:36px!important;padding-left:14px!important;margin-right:-255px!important}.et_pb_text_4 a{text-decoration:underline;font-size:24px}.et_pb_section_2{padding-top:8px;padding-bottom:6px}.et_pb_section_2.et_pb_section{background-color:#FFFFFF!important}.et_pb_row_3.et_pb_row{margin-right:195px!important;margin-left:auto!important}.et_pb_row_4.et_pb_row{margin-right:195px!important;margin-left:auto!important}.et_pb_row_4{max-width:1500px}.et_pb_row_3{max-width:1500px}.et_pb_image_2 .et_pb_image_wrap{border-width:2px;border-style:inset;border-color:#E02B20;box-shadow:10px 10px 0px 0px rgba(0,0,0,0.3)}.et_pb_image_2{margin-top:77px!important;max-width:80%;transform:scaleX(1.25) scaleY(1.25);text-align:center}.et_pb_image_3{max-width:300px;text-align:center}.et_pb_text_9{font-size:19px;line-height:2em;background-color:#FFFFFF;position:relative;max-width:640px}.et_pb_text_5{font-size:19px;line-height:2em;background-color:#FFFFFF;position:relative;max-width:640px}.et_pb_text_9 h2{font-family:'Abril Fatface',display;font-size:40px;line-height:1.1em}.et_pb_text_5 h2{font-family:'Abril Fatface',display;font-size:40px;line-height:1.1em}.et_pb_text_6{font-size:22px;line-height:1.1em;padding-left:26px!important;margin-bottom:33px!important}.et_pb_text_7{font-size:22px;line-height:1.1em;padding-left:26px!important;margin-right:13px!important}.et_pb_text_8{font-size:22px;line-height:1.1em;padding-left:26px!important;margin-right:13px!important}.et_pb_button_2_wrapper .et_pb_button_2,.et_pb_button_2_wrapper .et_pb_button_2:hover{padding-top:16px!important;padding-right:28px!important;padding-bottom:16px!important;padding-left:28px!important}.et_pb_button_0_wrapper .et_pb_button_0,.et_pb_button_0_wrapper .et_pb_button_0:hover{padding-top:16px!important;padding-right:28px!important;padding-bottom:16px!important;padding-left:28px!important}.et_pb_button_1_wrapper .et_pb_button_1,.et_pb_button_1_wrapper .et_pb_button_1:hover{padding-top:16px!important;padding-right:28px!important;padding-bottom:16px!important;padding-left:28px!important}.et_pb_button_0_wrapper{margin-right:-60px!important}.et_pb_button_2_wrapper{margin-right:-60px!important}.et_pb_button_1_wrapper{margin-right:-60px!important}body #page-container .et_pb_section .et_pb_button_2{color:#000000!important;border-width:0px!important;border-radius:0px;letter-spacing:1px;font-size:14px;font-weight:700!important;text-transform:uppercase!important;background-color:#ffffff}body #page-container .et_pb_section .et_pb_button_1{color:#000000!important;border-width:0px!important;border-radius:0px;letter-spacing:1px;font-size:14px;font-weight:700!important;text-transform:uppercase!important;background-color:#ffffff}body #page-container .et_pb_section .et_pb_button_0{color:#000000!important;border-width:0px!important;border-radius:0px;letter-spacing:1px;font-size:14px;font-weight:700!important;text-transform:uppercase!important;background-color:#ffffff}body #page-container .et_pb_section .et_pb_button_1:after{font-size:1.6em}body #page-container .et_pb_section .et_pb_button_2:after{font-size:1.6em}body #page-container .et_pb_section .et_pb_button_0:after{font-size:1.6em}body.et_button_custom_icon #page-container .et_pb_button_1:after{font-size:14px}body.et_button_custom_icon #page-container .et_pb_button_2:after{font-size:14px}body.et_button_custom_icon #page-container .et_pb_button_0:after{font-size:14px}.et_pb_button_2,.et_pb_button_2:after{transition:all 300ms ease 0ms}.et_pb_button_0,.et_pb_button_0:after{transition:all 300ms ease 0ms}.et_pb_button_1,.et_pb_button_1:after{transition:all 300ms ease 0ms}.et_pb_image_5{margin-top:56px!important;text-align:left;margin-left:0}.et_pb_text_12{min-height:353px;padding-top:47px!important}div.et_pb_section.et_pb_section_3{background-image:linear-gradient(270deg,#e0d8c8 90%,#5d574e 90%)!important}.et_pb_section_3{padding-top:6px;padding-bottom:2px}.et_pb_text_13 h3{font-family:'Abril Fatface',display;font-size:38px;line-height:1.1em}.et_pb_text_14 h3{font-family:'Abril Fatface',display;font-size:38px;line-height:1.1em}.et_pb_text_13{max-width:800px}.et_pb_toggle_0.et_pb_toggle h5,.et_pb_toggle_0.et_pb_toggle h1.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle h2.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle h3.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle h4.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle h6.et_pb_toggle_title{font-family:'Abril Fatface',display;font-weight:700;font-size:24px;color:#FFFFFF!important;letter-spacing:2px}.et_pb_module.et_pb_toggle_0.et_pb_toggle{border-radius:6px 6px 6px 6px;overflow:hidden;border-width:0px;border-color:#7b1340}.et_pb_toggle_0{box-shadow:6px 6px 18px 0px rgba(0,0,0,0.3)!important}.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open{background-color:#7d1641}.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close{background-color:#7d1641}.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open h5.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open h1.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open h2.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open h3.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open h4.et_pb_toggle_title,.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open h6.et_pb_toggle_title{color:#FFFFFF!important}.et_pb_column_9{background-color:#d0c8b9}.et_pb_column_8{background-color:#d0c8b9}.et_pb_column_6{background-color:#d0c8b9}.et_pb_image_2.et_pb_module{margin-left:auto!important;margin-right:auto!important}@media only screen and (max-width:980px){.et_pb_image_2{margin-left:auto;margin-right:auto}.et_pb_image_0{margin-left:auto;margin-right:auto}.et_pb_image_3{margin-left:auto;margin-right:auto}.et_pb_text_0 h1{font-size:54px}.et_pb_text_5 h2{font-size:36px}.et_pb_text_9 h2{font-size:36px}.et_pb_text_8 h2{font-size:36px}.et_pb_text_6 h2{font-size:36px}.et_pb_text_7 h2{font-size:36px}.et_pb_text_3 h2{font-size:36px}.et_pb_text_2 h2{font-size:36px}.et_pb_text_0 h2{font-size:36px}.et_pb_image_4{text-align:center;margin-left:auto;margin-right:auto}.et_pb_image_1{text-align:center;margin-left:auto;margin-right:auto}.et_pb_image_5{text-align:center;margin-left:auto;margin-right:auto}body #page-container .et_pb_section .et_pb_button_0:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_1:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_2:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_0:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_1:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_2:hover:after{opacity:1}.et_pb_text_13 h3{font-size:28px}.et_pb_text_14 h3{font-size:28px}}@media only screen and (max-width:767px){.et_pb_image_0{margin-left:auto;margin-right:auto}.et_pb_image_5{margin-left:auto;margin-right:auto}.et_pb_image_1{margin-left:auto;margin-right:auto}.et_pb_image_2{margin-left:auto;margin-right:auto}.et_pb_image_3{margin-left:auto;margin-right:auto}.et_pb_image_4{margin-left:auto;margin-right:auto}.et_pb_text_0 h1{font-size:34px}.et_pb_text_5 h2{font-size:24px}.et_pb_text_9 h2{font-size:24px}.et_pb_text_8 h2{font-size:24px}.et_pb_text_6 h2{font-size:24px}.et_pb_text_7 h2{font-size:24px}.et_pb_text_3 h2{font-size:24px}.et_pb_text_2 h2{font-size:24px}.et_pb_text_0 h2{font-size:24px}.et_pb_text_5 p{line-height:1.6em}.et_pb_text_2 p{line-height:1.6em}.et_pb_text_6 p{line-height:1.6em}.et_pb_text_7 p{line-height:1.6em}.et_pb_text_3 p{line-height:1.6em}.et_pb_text_8 p{line-height:1.6em}.et_pb_text_13 p{line-height:1.6em}.et_pb_text_14 p{line-height:1.6em}.et_pb_text_9 p{line-height:1.6em}.et_pb_text_5{font-size:14px}.et_pb_text_9{font-size:14px}body #page-container .et_pb_section .et_pb_button_0:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_1:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_2:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_1:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_2:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_0:hover:after{opacity:1}.et_pb_text_13 h3{font-size:18px}.et_pb_text_14 h3{font-size:18px}}</style>
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(123,17,65,0.8);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="Ok">Ok</a><a href="https://clubi2m.fr/ateliers/robotique-domotique/" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap button" aria-label="Politique de confidentialité">Politique de confidentialité</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --><script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://clubi2m.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script><script src="https://clubi2m.fr/wp-content/cache/min/1/cf3a638850192c515f3260a063b07e43.js" data-minify="1" defer></script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
